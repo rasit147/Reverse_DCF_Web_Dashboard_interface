@@ -8,8 +8,7 @@ The **Reverse DCF Valuation Tool** is an interactive web application built with 
 
 
 ### Live Demo
-
-# You can access the live version of these dashboard [here](https://revdcfinterface.streamlit.app/).
+# You can access the live version of these dashboard [Click here](https://revdcfinterface.streamlit.app/).
 
 
 ![Screenshot (408)](https://github.com/user-attachments/assets/486deaad-ed83-42c4-95ec-90bb068e82a4)
