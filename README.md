@@ -1,4 +1,5 @@
 # Reverse DCF Valuation Tool
+![Screenshot (407)](https://github.com/user-attachments/assets/465915ee-1817-475d-a2dc-6742d500338f)
 
 ## Overview
 
@@ -8,7 +9,10 @@ The **Reverse DCF Valuation Tool** is an interactive web application built with 
 
 ### Live Demo
 
-You can access the live version of the tool [here](https://revdcfinterface.streamlit.app/).
+# You can access the live version of these dashboard [here](https://revdcfinterface.streamlit.app/).
+
+
+![Screenshot (408)](https://github.com/user-attachments/assets/486deaad-ed83-42c4-95ec-90bb068e82a4)
 
 ## Features
 
@@ -17,6 +21,7 @@ You can access the live version of the tool [here](https://revdcfinterface.strea
 - Visualizes historical sales and profit growth using interactive Plotly charts.
 - Provides inputs for customizable DCF parameters such as cost of capital, ROCE, growth rates, and more.
 
+![Screenshot (409)](https://github.com/user-attachments/assets/83b5db0e-e96f-4f75-97d3-3ef9df5be25c)
 
 
 ## Technologies Used
@@ -26,6 +31,8 @@ You can access the live version of the tool [here](https://revdcfinterface.strea
 - **BeautifulSoup**: For web scraping to extract financial metrics.
 - **Plotly**: For creating interactive visualizations of data.
 - **NumPy**: For numerical operations and calculations.
+  
+![Screenshot (410)](https://github.com/user-attachments/assets/64dedca3-773f-4a37-97e4-8cfa2254947c)
 
 ## Installation
 
@@ -36,4 +43,5 @@ To run this application locally, follow these steps:
    git clone https://github.com/rasit147/Reverse_DCF_Web_Dashboard_interface.git
    cd reverse-dcf-valuation-tool
 
-   
+   ![Screenshot (411)](https://github.com/user-attachments/assets/3a55acea-c2da-49d0-84fc-e5fee74cc838)
+
